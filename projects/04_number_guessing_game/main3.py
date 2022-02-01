@@ -19,7 +19,7 @@ EASY_LIVES = 0
 
 HARD_ATTEMPTS = 10
 HARD_LIVES = 0
-difficulty= input("choose a difficulty. Type easy or hard: ")
+difficulty = input("choose a difficulty. Type easy or hard: ")
 
 if difficulty == "easy":
     print("You have 15 attempts ")
